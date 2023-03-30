@@ -1,0 +1,20 @@
+[
+   {
+      "nombre": "julian",
+      "apellido": "lizasu",
+      "fechaNacimiento": "12/9/1999",
+      "dni": "41328477",
+      "telefono": "2281536385",
+      "miembroDesde": "4/5/2006",
+      "deporte": 5
+   },
+   {
+      "nombre": "maximo",
+      "apellido": "waslet",
+      "fechaNacimiento": "8/5/2000",
+      "dni": "13414120",
+      "telefono": "2281687230",
+      "miembroDesde": "Invalid Date",
+      "deporte": 1
+   }
+]
